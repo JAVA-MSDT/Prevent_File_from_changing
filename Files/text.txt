@@ -3,3 +3,5 @@ Changing in Test
 remote test changing
 
 Another change after global gitignore
+
+Another change after global gitignore and added it to global config add full path
